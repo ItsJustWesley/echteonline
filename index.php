@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/html"Studentenportaal
 <head>
-    <title>Studentenportaal</title>
+    <title>Inleverpagina Studenten</title>
     <link rel="stylesheet" media="all" href="/public.css" />
 </head>
 <body>
 
+
 <?php include ('C:\Users\wesle\Documents\School\Kwartiel 2.1\Project Online\Online\globe_bank\public_header.php'); ?>
 
 
-<h1>Inleveren voor studenten</h1>
+
 <p>
-    <div>
+    <div id="main">
+    <h1>Inleveren voor studenten</h1>
     <form action="/index.php">
      Studiejaar:<br>
     <input type="radio" name="studiejaar" value="2016-2017" required> 2016-2017<br>
@@ -46,5 +48,6 @@
 
 </p>
 
+<?php include ('C:\Users\wesle\Documents\School\Kwartiel 2.1\Project Online\Online\globe_bank\public_footer.php'); ?>
 </body>
 </html>

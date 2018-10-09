@@ -8,7 +8,8 @@
  <style>
   div.login {
   position: relative;
-  left: 800px;
+      text-align: left;
+      left: 20px;
   bottom: 115px;
   border: none;
   }
@@ -17,7 +18,7 @@
 
     <header>
       <h1>
-          <img src="/pictures/SaxionLogo.png" width="200" height="80" alt="" />
+          <img src="/pictures/SaxionLogo.png" width="190" height="80" alt="" />
       </h1>
         <div class="login">
             Gebruikersnaam:<br>
