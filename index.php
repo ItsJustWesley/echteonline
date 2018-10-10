@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/html"Studentenportaal
 <head>
     <title>Inleverpagina Studenten</title>
-    <link rel="stylesheet" media="all" href="/public.css" />
+    <link rel="stylesheet" media="all" href="public.css" />
 </head>
 <body>
 
 
-<?php include ('C:\Users\wesle\Documents\School\Kwartiel 2.1\Project Online\Online\globe_bank\public_header.php'); ?>
+<?php include ('public_header.php'); ?>
 
 
 
@@ -48,6 +48,6 @@
 
 </p>
 
-<?php include ('C:\Users\wesle\Documents\School\Kwartiel 2.1\Project Online\Online\globe_bank\public_footer.php'); ?>
+<?php include ('public_footer.php'); ?>
 </body>
 </html>

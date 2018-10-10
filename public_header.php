@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" media="all" href="/public.css" />
+    <link rel="stylesheet" media="all" href="public.css" />
   </head>
  <style>
   div.login {
@@ -18,7 +18,7 @@
 
     <header>
       <h1>
-          <img src="/pictures/SaxionLogo.png" width="190" height="80" alt="" />
+          <img src="pictures/SaxionLogo.png" width="190" height="80" alt="" />
       </h1>
         <div class="login">
             Gebruikersnaam:<br>
